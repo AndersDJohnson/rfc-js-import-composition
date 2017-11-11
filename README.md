@@ -4,7 +4,7 @@ More terse import statements grouped for a base directory.
 
 ```js
 import {
-  { Foo } from './foo'
+  { Foo } from './foo',
   Bar from './extra/bar'
 } from '../../components'
 ```
